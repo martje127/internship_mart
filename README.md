@@ -27,13 +27,15 @@ Time|What|Where
 ---|---|---
 08:30-09:00|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
 09:00-09:45|Meeting 1: ? (reserve: Magdalena Kozielska-Reid)|Room ? (if reserve: 5173.506)
-10:00-10:45|Meeting 2: Boris Kramer|Room ?
+10:00-10:45|Meeting 2: Boris Kramer [1] |Room ?
 11:00-11:45|Meeting 3: ?|Room ?
 12:00-12:45|Lunch       |Big table at the 5th floor
 13:00-13:45|Meeting 4: ?|Room ?
 14:00-14:45|Meeting 5: ?|Room ?
 15:00-15:45|Write report|Big table at the 5th floor
 16:00-17:00|GELIFES seminar|Room ?
+
+ * [1] Willing to change slots if needed
 
 ## Questions for supervisors
 

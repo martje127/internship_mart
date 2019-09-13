@@ -6,11 +6,18 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
 Internship of Mart at the Rijksuniversiteit Groningen.
 
+
+
 ## [Report](report.md)
 
  * [View the report here](report.md)
 
 ## Where
+
+ * Building: [Linnaeusborg](https://www.rug.nl/staff/location/5172), Nijenborgh 7, 9747 AG Groningen
+ * Rooms:
+    * Canteen, at ground floor
+    * Theoretical Biological department, mostly at 5th floor
 
 ![](lb.png)
 

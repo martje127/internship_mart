@@ -19,7 +19,7 @@ Internship of Mart at the Rijksuniversiteit Groningen.
 Time|What|Where
 ---|---|---
 08:30-09:00|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
-09:00-09:45|Meeting 1: ?|Room ?
+09:00-09:45|Meeting 1: Magdalena Kozielska-Reid|Room 5173.506
 10:00-10:45|Meeting 2: ?|Room ?
 11:00-11:45|Meeting 3: ?|Room ?
 12:00-12:45|Lunch       |Big table at the 5th floor

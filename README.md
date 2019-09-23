@@ -74,3 +74,7 @@ To learn how working at a university is like.
 At that day, they'll hand in a report to answer the question:
 
 > How do biologists investigate nature?
+
+## Official documents
+
+ * [Letter from Dollard College](brief_stagebieders_2018.pdf)

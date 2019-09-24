@@ -53,7 +53,7 @@ You can fill the time in any way you like.
 
 Perhaps the most useful thing to do,
 is to explain your work to the intern,
-to verify that that you can (still) explain my work to laymen.
+to verify that that you can (still) explain your scientific work to laymen.
 
 Consider:
 

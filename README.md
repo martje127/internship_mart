@@ -23,18 +23,19 @@ Internship of Mart at the Rijksuniversiteit Groningen.
 
 ## Thursday September 26th 2019
 
-Time|What|Where
----|---|---
-08:30-09:00|Briefing Richel|Canteen of the Linnaeusborg at the Zernike campus
-09:00-09:45|Meeting 1: ? (reserve: Magdalena Kozielska-Reid)|Room ? (if reserve: 5173.506)
-10:00-10:45|Meeting 2: Boris Kramer [1] |Room ?
-11:00-11:45|Meeting 3: Lauren Seex|Room 5173.0512
-12:00-12:45|Lunch       |Big table at the 5th floor
-13:00-13:45|Meeting 4: Josh and Shu|Room 5172.0547
-14:00-14:45|Meeting 5: ?|Room ?
-15:00-15:45|Meeting 6: ?|Room ?
-16:00-17:00|Write report|Big table at the 5th floor
+Time       |What                                |Where
+-----------|------------------------------------|-------------------------------------------------
+08:30-09:00|Briefing Richel                     |Canteen of the Linnaeusborg at the Zernike campus
+09:00-09:45|Meeting 1: Pedro Neves              |Room 5172.0547
+10:00-10:45|Meeting 2: Marina Papadopoulou      |Room 5173.0512
+11:00-11:45|Meeting 3: Lauren Seex              |Room 5173.0512
+12:00-13:00|Lunch with Boris                    |Big table at the 5th floor
+13:00-13:45|Meeting 4: Josh Lambert and Shu Xie |Room 5172.0547  
+14:00-14:45|Meeting 5: Christoph Netz           |Room 5172.581
+15:00-15:45|Meeting 6: Sajat Farahani           |Room 5172.517
+16:00-17:00|Write report                        |Big table at the 5th floor
 
+ * Reserve: Pedro Neves
  * [1] Willing to change slots if needed
 
 ## Questions for supervisors

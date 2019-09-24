@@ -30,7 +30,7 @@ Time|What|Where
 10:00-10:45|Meeting 2: Boris Kramer [1] |Room ?
 11:00-11:45|Meeting 3: Lauren Seex|Room 5173.0512
 12:00-12:45|Lunch       |Big table at the 5th floor
-13:00-13:45|Meeting 4: ?|Room ?
+13:00-13:45|Meeting 4: Josh and Shu|Room 5172.0547
 14:00-14:45|Meeting 5: ?|Room ?
 15:00-15:45|Meeting 6: ?|Room ?
 16:00-17:00|Write report|Big table at the 5th floor

@@ -6,9 +6,11 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
 Internship of Mart at the Rijksuniversiteit Groningen.
 
-
-
 ## [Report](report.md)
+
+The intern will have to write a report in the end, with the research question:
+
+> How do biologists investigate nature?
 
  * [View the report here](report.md)
 
@@ -35,8 +37,7 @@ Time       |What                                |Where
 15:00-15:45|Meeting 6: Sajat Farahani           |Room 5172.517
 16:00-17:00|Write report                        |Big table at the 5th floor
 
- * Reserve: Pedro Neves
- * [1] Willing to change slots if needed
+ * Reserve: Magdalena Kozielska-Reid, 5173.506
 
 ## Questions for supervisors
 
@@ -50,11 +51,16 @@ He ahs been the lead tester of the game Nature Zen.
 
 You can fill the time in any way you like.
 
+Perhaps the most useful thing to do,
+is to explain your work to the intern,
+to verify that that you can (still) explain my work to laymen.
+
 Consider:
 
  * telling/showing your work
  * teaching some basic biology
- * show the lab/campus/etc
+ * showing some code/scripts 
+ * show the lab/campus/Peregrine/etc
  * taking a walk
 
 ### A slot of 45 minutes is too long for one person

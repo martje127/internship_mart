@@ -45,7 +45,7 @@ Time       |What                                |Where
 
 Mart is a ?14 year old scholar,
 that follows Richel's programming course.
-He ahs been the lead tester of the game Nature Zen.
+He has been the lead tester of the game Nature Zen.
 
 ### What should I do during my slot
 

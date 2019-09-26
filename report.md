@@ -1,37 +1,30 @@
-# How do biologists investigate nature?
+internschip Richel Bilderbeek Rijks Universiteit Groningen
 
- * Author: Mart
+meeting: Magdalena Kozielska
+She did a master in biologie.
+she has made a thesis on the studie of flys X and Y chromosooms. 
+defenition of the theoretische biologie: trying to understand biologie with simulations and equations.
 
-## Introduction
+meeting: Marina Papadopoulou
+master:compatational ecology and evelution.
+she test flogs react with threat and colective escape. she does that with a valkan drone.
+defenition of the theoretische biologie: using simulations and equations to mormulate new theries.
 
-(why is this a relevant question?)
+meeting: Lauren Seex
+master:ecology en evolution
+studies lemas social system.
+why lemas: femal domanance
+defenition of the theoretische biologie: understanding complex procces and systems through simple interactions using simulations and equations.
 
-## Hypothesis
+meeting: boris
+diploma: enviormendel sciences
+?
+defenition of the theoretische biologie: to understand the underlining mechanisme.
 
-(what did you think before the internship?)
+meeting: Shu Xie, Josh Lambet, Pedro Neites
+the where studieing evelution on islands.
+Shu studies influens of traits states
+Josh studies the difrend kinds of islands
+Pedro studies area chandes on oceanic islands and its influends on biodifurstetie
 
-## Material and Methods
-
-(how did you find out the truth?)
-
-## Results
-
-(what did you find out?)
-
-## Conclusion
-
-(is your hypothesis accepted or rejected?)
-
-## Discussion
-
-(what are the shortcomings in answering the question?)
-
-## References
-
-Iff needed. 
-
- * [1] Bilderbeek, Richèl JC, and Rampal S. Etienne. "babette: BEAUti 2, BEAST2 and Tracer for R." Methods in Ecology and Evolution 9.9 (2018): 2034-2040.
-
-## Acknowledgments
-
-Iff needed.
+meeting: Christoph Netz

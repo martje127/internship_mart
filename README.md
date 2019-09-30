@@ -28,7 +28,7 @@ Time       |What                                    |Where
 10:00-10:45|Meeting 2: Marina Papadopoulou          |Room 5173.0512
 11:00-11:45|Meeting 3: Lauren Seex                  |Room 5173.0512
 12:00-13:00|Lunch with Boris                        |Big table at the 5th floor
-13:00-13:45|Meeting 4: Josh Lambert, ?Shu and Pedro |Room 5172.0547  
+13:00-13:45|Meeting 4: Josh Lambert, Shu and Pedro  |Room 5172.0547  
 14:00-14:45|Meeting 5: Christoph Netz               |Room 5172.581
 15:00-15:45|Meeting 6: Sajat Farahani               |Room 5172.517
 16:00-17:00|Write report                            |Big table at the 5th floor
@@ -37,7 +37,7 @@ Time       |What                                    |Where
 
 ### Who is Mart?
 
-Mart is a ?14 year old scholar,
+Mart is a 14 year old scholar,
 that follows Richel's programming course.
 He has been the lead tester of the game Nature Zen.
 
